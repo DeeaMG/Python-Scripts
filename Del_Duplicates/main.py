@@ -1,7 +1,6 @@
 import os
 
 
-# C:\\Users\\uic59362\\Desktop\\Python-Scripts-master\\Del_Duplicates\\testFolder
 path = raw_input('Enter the path: ')
 isCopy = ' - Copy'
 
